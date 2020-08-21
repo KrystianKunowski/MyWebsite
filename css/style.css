@@ -1,0 +1,196 @@
+body{
+  font-family: 'Rowdies', cursive;
+  text-align: center;
+}
+  .social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 5rem;
+  width: 5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #bd5d38;
+}
+.surname
+{
+  color: #bd5d38;
+}
+.rounded
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background: transparent;
+  padding: 8px;
+  border: 1px solid #ccc;
+  box-shadow: 10px 10px 10px rgb(105, 104, 104);
+}
+.mailLink
+{
+  color : #bd5d38;
+}
+.mailLink:hover
+{
+  color : #8b3c1d;
+}
+.collageName
+{
+  color: #bd5d38;
+}
+.educationColor
+{
+  color: #bd5d38;
+}
+.navbar 
+{
+  margin-bottom: 0;
+  border-radius: 0;
+ }
+footer 
+ {
+    background-color: #bd5d38;
+    padding: 20px;
+    color: white;
+ }
+#titleBack
+{
+background-image: url(../images/picOfPc.jpg);
+background-size: cover;
+color : #bd5d38;
+}
+.iconInfoTopic
+{
+  color: #bd5d38;
+}
+.interests
+{
+  padding: 2rem;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.interestsColor
+{
+  color: #bd5d38;
+}
+button
+{
+  color: #ffffff !important;
+  background: #bd5d38;
+  border-radius: 5px;
+  border: 3px solid #bd5d38 !important;
+  outline:none; 
+  padding: 10px 40px;
+  margin-bottom: 30px;
+  box-shadow: 0  17px 10px -10px rgba(0, 0, 0, 0.4)
+}
+button:hover
+{
+  color: #bd5d38 !important;
+  border-radius: 25px;
+  background-color: white;
+  border-color: #bd5d38 !important;
+  border: 3px solid #8b3c1d;
+  outline:none; 
+  letter-spacing: 0.1em;
+  transition: all 0.4s ease 0s;
+  transform: translate(0, -7px);
+  box-shadow: 0  17px 10px -10px rgba(0, 0, 0, 0.4)
+}
+
+th {
+  color: #bd5d38;
+  font-size: 2rem;
+  text-align: center;
+}
+#titleBack2
+{
+background-image: url(../images/artem-sapegin-b18TRXc8UPQ-unsplash.jpg);
+background-size: cover;
+}
+#projectPic1
+{
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  background: transparent;
+  padding: 8px;
+  border: 3px solid #ccc;
+  box-shadow: 10px 10px 10px #999;
+}
+#projectPic2
+{
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  background: transparent;
+  padding: 8px;
+  border: 3px solid #ccc;
+  box-shadow: 10px 10px 10px #999;
+}
+#projectPic3
+{
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  background: transparent;
+  padding: 8px;
+  border: 3px solid #ccc;
+  box-shadow: 10px 10px 10px #999;
+}
+#projectPic4
+{
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  background: transparent;
+  padding: 8px;
+  border: 3px solid #ccc;
+  box-shadow: 10px 10px 10px #999;
+
+}
+.list 
+{
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+}
+.educationInfo
+{
+  padding-bottom: 1rem;
+}
+.educationContainer
+{
+padding: 2rem;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+table
+{
+font-size: large;
+}
+.positionTable
+{
+  text-align: left;
+}
+.lineHeight
+{
+  line-height: 1.6;
+}
+.lineHeight2
+{
+  line-height: 1.6;
+}
+.lineHeight3
+{
+  line-height: 1.6;
+}
+
+
